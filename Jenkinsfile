@@ -1,4 +1,4 @@
-def PROJECT_NAME = "Slot-Vikings"
+def PROJECT_NAME = "Slot-EgyptianTreasure"
 def UNITY_VERSION = "2022.3.48f1"
 def UNITY_INSTALLATION = "C:\\Program Files\\Unity\\Hub\\Editor\\${UNITY_VERSION}\\Editor\\Unity.exe"
 def REPO_URL = "git@github.com:DingDingHouse/Slot-EgyptianTreasure.git"
